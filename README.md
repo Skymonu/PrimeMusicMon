@@ -70,7 +70,7 @@ This project is licensed under the **GNU General Public License v3**. All design
 
 See [LICENSE](../LICENSE) for more information.
 
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
+Special thanks to these amazing projects/people which/who help power Prime Music Bot:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
