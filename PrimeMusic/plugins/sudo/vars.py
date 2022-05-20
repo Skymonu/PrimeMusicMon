@@ -6,7 +6,7 @@ import config
 from strings import get_command
 from PrimeMusic import app
 from PrimeMusic.misc import SUDOERS
-from PrimeMusic.utils.database.memorydatabase import get_video_limit
+from PrimeMusic.utils.database.db_memory import get_video_limit
 from PrimeMusic.utils.formatters import convert_bytes
 
 VARS_COMMAND = get_command("VARS_COMMAND")
