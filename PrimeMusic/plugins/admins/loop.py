@@ -4,7 +4,7 @@ from pyrogram.types import Message
 from config import BANNED_USERS
 from strings import get_command
 from PrimeMusic import app
-from PrimeMusic.utils.database.memorydatabase import (get_loop,
+from PrimeMusic.utils.database.db_memory import (get_loop,
                                                       set_loop)
 from PrimeMusic.utils.decorators import AdminRightsCheck
 
