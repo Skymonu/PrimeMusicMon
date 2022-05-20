@@ -106,9 +106,14 @@ Config vars are basically the variables which configure or modify bot to functio
 
 ## Multi Assistant Mode
 
-- You can use upto 5 Assistant Clients ( allowing your bot to atleast work in 2000-2500 chats at a time )
+- You can use upto 10 Assistant Clients ( allowing your bot to atleast work in 2000-2500 chats at a time )
 
 1. `STRING_SESSION2` : Pyrogram Session Needed, Generate string from [@PrimeStringBot](http://t.me/PrimeStringBot) in Telegram.
 2. `STRING_SESSION3` : Pyrogram Session Needed, Generate string from [@PrimeStringBot](http://t.me/PrimeStringBot) in Telegram.
 3. `STRING_SESSION4` : Pyrogram Session Needed, Generate string from [@PrimeStringBot](http://t.me/PrimeStringBot) in Telegram.
 4. `STRING_SESSION5` : Pyrogram Session Needed, Generate string from [@PrimeStringBot](http://t.me/PrimeStringBot) in Telegram.
+5. `STRING_SESSION6` : Pyrogram Session Needed, Generate string from [@PrimeStringBot](http://t.me/PrimeStringBot) in Telegram.
+6. `STRING_SESSION7` : Pyrogram Session Needed, Generate string from [@PrimeStringBot](http://t.me/PrimeStringBot) in Telegram.
+7. `STRING_SESSION8` : Pyrogram Session Needed, Generate string from [@PrimeStringBot](http://t.me/PrimeStringBot) in Telegram.
+8. `STRING_SESSION9` : Pyrogram Session Needed, Generate string from [@PrimeStringBot](http://t.me/PrimeStringBot) in Telegram.
+9. `STRING_SESSION10` : Pyrogram Session Needed, Generate string from [@PrimeStringBot](http://t.me/PrimeStringBot) in Telegram.
