@@ -9,7 +9,7 @@ from PrimeMusic.utils.database import (get_cmode, get_lang,
                                        is_active_chat,
                                        is_commanddelete_on,
                                        is_served_private_chat)
-from PrimeMusic.utils.database.memorydatabase import is_maintenance
+from PrimeMusic.utils.database.db_memory import is_maintenance
 from PrimeMusic.utils.inline.playlist import botplaylist_markup
 
 
