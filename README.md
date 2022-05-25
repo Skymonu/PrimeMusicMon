@@ -33,6 +33,8 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 - Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/PrimeStringBot)
 
+# Deployment on Heroku or VPS
+
 <details>
 <summary><b> 🚀 Heroku Deployment</b></summary>
 <br>
