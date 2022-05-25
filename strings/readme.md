@@ -4,7 +4,7 @@
 
 | Code | Language | Contributor |
 |-|-------|-------|
-| en | English | Thanks to [TeamYukki](https://t.me/TeamYukki)
-| 🇮🇩 | Indonesia  | Thanks to [ᴛᴏɴɪ - ᴇx](https://t.me/Tonic880)
-| 🇮🇩 | Sunda  | Thanks to [ʀᴇxᴀ ᴇx](https://t.me/JustRex)
-| 🇮🇩 | Jawa | Thanks to [ᴛᴏɴɪ - ᴇx](https://t.me/Tonic880)
+| en | English | Thanks to [TeamYukki](https://t.me/kawaiine22)
+| 🇮🇩 | Indonesia  | Thanks to [ᴛᴏɴɪ - ᴇx](https://t.me/kiminohoa)
+| 🇮🇩 | Sunda  | Thanks to [ʀᴇxᴀ ᴇx](https://t.me/kawaiine22)
+| 🇮🇩 | Jawa | Thanks to [ᴛᴏɴɪ - ᴇx](https://t.me/kiminohoa)
