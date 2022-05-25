@@ -43,7 +43,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 <a href="https://heroku.com/deploy?template=https://github.com/Toni880/PrimeMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 <h4>Click the button below to deploy Prime on bot Telegram!</h4>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=VG9uaTg4MC9QcmltZU11c2ljIG1haW4"><img src="https://img.shields.io/badge/Deploy%20To%20Bot%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://telegram.dog/XTZ_HerokuBot?start=VG9uaTg4MC9QcmltZU11c2ljIG1haW4"><img src="https://img.shields.io/badge/Deploy%20To%20Bot%20Telegram-blue?style=for-the-badge&logo=telegram" width="200""/></a>
 </details>
 
 <details>
